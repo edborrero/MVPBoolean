@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "parcel": "^2.7.0"
+  },
+  "name": "mvpboolean",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edborrero/MVPBoolean.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edborrero/MVPBoolean/issues"
+  },
+  "homepage": "https://github.com/edborrero/MVPBoolean#readme",
+  "description": ""
+}
